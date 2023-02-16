@@ -1,6 +1,6 @@
 function deshabilitar() {
     var fig = document.getElementById("fig").value;
-    var alto= document.getElementById("Alto");
+    var alto= document.getElementById("Altura");
     var base= document.getElementById("Base");
     var lado= document.getElementById("Lado");
     if(fig==0){
